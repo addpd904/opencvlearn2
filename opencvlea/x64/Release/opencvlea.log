@@ -1,0 +1,12 @@
+﻿  opencv5.cpp
+E:\programme\cpp\opencvlea\opencvlea\opencv5.cpp(54,37): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Generating code
+  0 of 217 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  opencvlea.vcxproj -> E:\programme\cpp\opencvlea\x64\Release\opencvlea.exe
